@@ -4,6 +4,10 @@ description: How to setup 2PG for local development.
 
 # Setup
 
+This guide will show you how to setup 2PG, and the Dashboard for local development.
+
+{% embed url="https://www.youtube.com/watch?v=rYpR0CiEGgk" %}
+
 ### Development
 
 The **Bot** project is used for managing data for the bot, and contains the API, which by default serves the built dashboard files on `http://localhost:3000`. It is used as a foundation for the Website project.
