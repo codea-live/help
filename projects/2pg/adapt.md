@@ -13,7 +13,7 @@ Make sure you have followed the local [setup guide](setup/) for 2PG, and have th
 {% page-ref page="setup/" %}
 
 ```
-$ 
+
 ```
 
 {% hint style="info" %}

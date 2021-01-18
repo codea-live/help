@@ -17,45 +17,58 @@ Internal pinging is where the application, keeps itself alive usually at a certa
 
 This package is used to send HTTP GET requests to a URL. You can use the package of your choice.
 
-```text
-npm i -S node-fetch
+```bash
+$ npm i -S node-fetch
 ```
 
 ### 2. Add the Script
 
 This script will send a HTTP GET request to a Heroku app, every 5 minutes. In theory, this will keep it awake until the free dyno hours run out.
 
-#### TypeScript / ES6
-
-```typescript
-import fetch from 'node-fetch';
-
-setInterval(() => fetch(`https://<your_app>.herokuapp.com`), 5 * 60 * 1000);
-```
-
-#### JavaScript
-
+{% tabs %}
+{% tab title="JavaScript" %}
+{% code title="keep-alive.js" %}
 ```javascript
 const fetch = require('node-fetch');
 
 setInterval(() => fetch(`https://<your_app>.herokuapp.com`), 5 * 60 * 1000);
 ```
+{% endcode %}
+{% endtab %}
+
+{% tab title="TypeScript" %}
+{% code title="keep-alive.ts" %}
+```typescript
+import fetch from 'node-fetch';
+
+setInterval(() => fetch(`https://<your_app>.herokuapp.com`), 5 * 60 * 1000);
+```
+{% endcode %}
+{% endtab %}
+{% endtabs %}
 
 ### 3. Connect Script to Main Application
 
 Make sure to connect the script to the bottom of your main file \(e.g. `app.js`\), and it should do the rest.
 
-#### TypeScript / ES6
-
-```typescript
-import './keep-alive';
-```
-
-#### JavaScript
-
+{% tabs %}
+{% tab title="JavaScript" %}
+{% code title="keep-alive.js" %}
 ```javascript
 require('./keep-alive');
 ```
+{% endcode %}
+{% endtab %}
+
+{% tab title="TypeScript" %}
+{% code title="app.ts" %}
+```javascript
+...
+import './keep-alive';
+```
+{% endcode %}
+{% endtab %}
+{% endtabs %}
 
 ### Now What?
 
