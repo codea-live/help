@@ -8,11 +8,15 @@ This guide will show you how to setup 2PG, and the Dashboard for local developme
 
 {% embed url="https://www.youtube.com/watch?v=rYpR0CiEGgk" %}
 
-### Development
+{% hint style="info" %}
+The written guide below is more up-to-date, and is mainly command based.
+{% endhint %}
+
+### Developing with 2PG
 
 The **Bot** project is used for managing data for the bot, and contains the API, which by default serves the built dashboard files on `http://localhost:3000`. It is used as a foundation for the Website project.
 
-{% embed url="https://github.com/twopg/bot" caption="Bot Project" %}
+{% embed url="https://github.com/twopg/bot" caption="" %}
 
 The **Dashboard** project is used for _customizing_ the actual website and dashboard. It uses Angular, which is a front-end framework that makes navigation seem fast and responsive.
 

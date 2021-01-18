@@ -4,7 +4,7 @@ description: 'All-in-one guide for setting up a simple, powerful Discord bot - 2
 
 # 2PG
 
-![](../../.gitbook/assets/image%20%2831%29.png)
+![2PG - Simple, powerful, Discord bot.](../../.gitbook/assets/image%20%2831%29.png)
 
 ### What is 2PG?
 
