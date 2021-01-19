@@ -6,7 +6,15 @@ description: >-
 
 # Setup
 
-### Development
+## Production
+
+Deployment to Heroku can be done in a few clicks. Refer to the [.env setup](config.md) for an explanation of the different environment variables.
+
+{% page-ref page="config.md" %}
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dbots-co/api)
+
+## Development
 
 The **API** \(application programming interface\) project is used for managing data for the Discord bot list. It is used as a foundation for the Website project.
 
@@ -80,7 +88,7 @@ npm start
 You may also need the Angular CLI to be globally installed to serve the website. This can be done with `npm i -g @angular/cli`
 {% endhint %}
 
-### Redirect URIs
+### Set Redirect URIs
 
 **One last thing**...  
 Redirect URIs are used for allowing Discord OAuth2 to function correctly. These can also be found in the [Discord Developer Portal](https://discord.com/developers).

@@ -1,3 +1,9 @@
+---
+description: >-
+  A guide on how to configure DBots - Discord bot list, for your projects needs,
+  and an explanation on what each environment variable means.
+---
+
 # Config
 
 ## `.env`

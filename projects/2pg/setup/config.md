@@ -1,7 +1,7 @@
 ---
 description: >-
-  A guide on how to configure 2PG, for your projects needs, and an explanation
-  on what each environment variable means.
+  A guide on how to configure 2PG - Simple, powerful Discord bot, for your
+  projects needs, and an explanation on what each environment variable means.
 ---
 
 # Config
