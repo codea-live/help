@@ -2,7 +2,6 @@
 
 * [Get Started](README.md)
 * [Projects](projects/README.md)
-  * [0PG](projects/0pg.md)
   * [1PG](projects/1pg/README.md)
     * [Error Help](projects/1pg/error-help.md)
   * [2PG](projects/2pg/README.md)
