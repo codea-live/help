@@ -74,3 +74,15 @@ import './keep-alive';
 
 Your application should stay online for longer, or 24/7, depending on your host.
 
+### External Pinging
+
+Unlike internal pinging, external pinging sends requests from the outside - from another application. For example, connecting to [2pg.xyz](https://2pg.xyz), from the browser, would count as an external ping. Doing this from the browser would keep a Heroku application alive, as it would prevent it from auto sleeping.
+
+Below is an entire repository dedicated to this concept. It also works with multiple URLs, and logs when an app is kept alive.
+
+{% hint style="warning" %}
+This does not work for all free hosting providers, and could be against their TOS \(terms of service\).
+{% endhint %}
+
+{% embed url="https://github.com/theADAMJR/Auto-Ping/blob/master/app.js" caption="Advanced Example" %}
+
