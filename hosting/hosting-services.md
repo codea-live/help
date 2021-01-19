@@ -4,6 +4,8 @@ description: A guide on deploying DBots using popular hosting methods.
 
 # Hosting Services
 
+Here is a guide on popular hosts, that I have had a good experience with, and that I recommend.
+
 ### Deploy on Heroku
 
 Heroku is an option that I personally use to host some of my apps for free.
