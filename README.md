@@ -8,11 +8,11 @@ description: Help with development on codea.live projects.
 
 These docs support your development with codea.live projects. They range from Discord bot dashboard customization, to setting up a Discord bot list.
 
+![1PG \(top left\), DBots \(top right\), 6PG \(bottom left\), DBots \(bottom right\).](.gitbook/assets/projects.png)
+
 #### View all projects...
 
 {% page-ref page="projects/" %}
-
-![1PG \(top left\), DBots \(top right\), 6PG \(bottom left\), DBots \(bottom right\).](.gitbook/assets/projects.png)
 
 **I want video tutorials...**
 
