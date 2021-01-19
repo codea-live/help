@@ -12,6 +12,7 @@
       * [Config](projects/2pg/setup/config.md)
     * [Customize](projects/2pg/customize.md)
     * [Adapt](projects/2pg/adapt.md)
+  * [3PG](projects/3pg.md)
   * [6PG](projects/6pg.md)
   * [DBots](projects/dbots/README.md)
     * [DBots Discord](https://discord.gg/uDTgxyg)

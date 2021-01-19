@@ -6,7 +6,7 @@ description: Choose from a range of codea.live projects.
 
 ## Discord
 
-Here is an overview of projects that were made for Discord, from Discord bots to Discord bot lists.
+Here is an overview of projects that were made for Discord, from Discord bots to Discord server lists. There are _too many_ projects to choose from, so pick wisely, and yes, not all projects are currently maintained.
 
 ### 1PG - JavaScript Discord Bot
 
@@ -30,13 +30,25 @@ Here is an overview of projects that were made for Discord, from Discord bots to
 
 {% page-ref page="2pg/" %}
 
+### 3PG - Highly Customizable Discord Bot
+
+**Description**: Multipurpose Discord Bot with Dashboard  
+**Maintenance**: Unmaintained  
+**Project**:  
+- **Bot**: TypeScript  
+- **Dashboard**: TypeScript and Angular
+
+{% page-ref page="3pg.md" %}
+
 ### 6PG - Discord Bot Maker
 
 **Description**: Discord Bot Maker with Dashboard  
-**Maintenance**: Inactive  
+**Maintenance**: Unmaintained  
 **Project**:  
 - **API**: TypeScript  
 - **Website**: TypeScript and Angular
+
+{% page-ref page="6pg.md" %}
 
 ### DBots - Discord Bot List
 
