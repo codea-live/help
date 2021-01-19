@@ -69,6 +69,8 @@ DigitalOcean is a very reliable service with viable security. I personally use i
   </tbody>
 </table>
 
+{% embed url="https://m.do.co/c/be464b522714" caption="\"Try DigitalOcean with a $100 credit\"" %}
+
 ### What about other hosting services?
 
 There are many hosting services, however I will only recommend the ones I have had a great experience with, and I hope you will too.
