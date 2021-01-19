@@ -19,6 +19,7 @@
       * [View Demo](https://dbots.co)
     * [Setup](projects/dbots/setup.md)
     * [Customize](projects/dbots/customize.md)
+  * [DList](projects/dlist.md)
 
 ## Hosting
 
