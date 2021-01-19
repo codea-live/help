@@ -36,6 +36,8 @@ Heroku is an option that I personally use to host some of my apps for free.
   </tbody>
 </table>
 
+{% embed url="https://heroku.com" %}
+
 ### Deploy on DigitalOcean
 
 DigitalOcean is a very reliable service with viable security. I personally use it for my major projects \(2PG, DBots, codea.live etc.\). It costs money, but hosts apps 24/7, without extra challenges. As of writing this, I have not experienced any notable downtime, even with &gt;2 years of service.
