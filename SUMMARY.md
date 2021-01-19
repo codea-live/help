@@ -18,7 +18,7 @@
     * [Overview](projects/dbots/overview/README.md)
       * [View Demo](https://dbots.co)
     * [Setup](projects/dbots/setup.md)
-    * [Customize](projects/dbots/untitled.md)
+    * [Customize](projects/dbots/customize.md)
 
 ## Hosting
 
