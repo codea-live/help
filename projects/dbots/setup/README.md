@@ -88,6 +88,15 @@ npm start
 You may also need the Angular CLI to be globally installed to serve the website. This can be done with `npm i -g @angular/cli`
 {% endhint %}
 
+### Enable Bot Intents
+
+Enable both intents in the [Discord Developer Portal](https://discord.com/developers), to allow bots to appear on the website**,** and enable all functionality.
+
+**Presence Intent** - used to show status of bot user on website \(i.e. online / offline etc.\)  
+**Server Members Intent** - used to cache bot members in server to display them on the website.
+
+![](../../../.gitbook/assets/image%20%2841%29.png)
+
 ### Set Redirect URIs
 
 **One last thing**...  

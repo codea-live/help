@@ -20,5 +20,5 @@ What is DBots, what it was made, and more....
 
 Read about how you can use the DBots code. This applies to both the API and the dashboard.
 
-
+{% page-ref page="setup/" %}
 
