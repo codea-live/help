@@ -11,8 +11,6 @@
     * [Setup](projects/2pg/setup/README.md)
       * [Config](projects/2pg/setup/config.md)
     * [Customize](projects/2pg/customize.md)
-  * [3PG](projects/3pg.md)
-  * [6PG](projects/6pg.md)
   * [DBots](projects/dbots/README.md)
     * [DBots Discord](https://discord.gg/uDTgxyg)
     * [Overview](projects/dbots/overview/README.md)
@@ -20,7 +18,6 @@
     * [Setup](projects/dbots/setup/README.md)
       * [Config](projects/dbots/setup/config.md)
     * [Customize](projects/dbots/customize.md)
-  * [DList](projects/dlist.md)
 
 ## Hosting
 

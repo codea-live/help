@@ -6,6 +6,8 @@ description: 'All-in-one guide for setting up a simple, powerful Discord bot - 2
 
 ![2PG - Simple, powerful, Discord bot.](../../.gitbook/assets/image%20%2831%29.png)
 
+{% embed url="https://github.com/twopg" %}
+
 ### What is 2PG?
 
 What is 2PG, why was it made, when was it first created, and more...
