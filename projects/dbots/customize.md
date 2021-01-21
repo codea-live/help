@@ -15,8 +15,6 @@ Environment files allow you to configure global variables, specific to your webs
 
 {% embed url="https://github.com/DBots-co/Website/tree/stable/src/environments" caption="src/environments" %}
 
-
-
 ## Common Questions
 
 ### How do I change the logo?
