@@ -1,5 +1,5 @@
 ---
-description: A guide on deploying DBots using popular hosting methods.
+description: A guide on deploying applications using popular hosting methods.
 ---
 
 # Hosting Services
