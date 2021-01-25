@@ -8,6 +8,8 @@ description: >-
 
 ## `.env`
 
+Environment variables are used to configure your application. Variables are stored in `process.env` with Node.js. Create a `.env` file to get started.
+
 ### Template
 
 {% tabs %}
