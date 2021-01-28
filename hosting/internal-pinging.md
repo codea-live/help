@@ -6,6 +6,8 @@ description: >-
 
 # Internal Pinging
 
+{% embed url="https://www.youtube.com/watch?v=Ujpg8FQLg28" %}
+
 ### What is Internal Pinging?
 
 Internal pinging is where the application, keeps itself alive usually at a certain interval, to stop them from sleeping. This is used to **stop apps sleeping** in free hosting services, which can allow for 24/7 hosting, given the right conditions.
