@@ -27,9 +27,5 @@ By default, the website uses the **Next Gen** theme. The process is the same as 
 
 {% embed url="https://github.com/DBots-co/Website/blob/stable/src/theme.scss" caption="theme.scss" %}
 
-{% embed url="https://www.youtube.com/watch?v=9QtFdxpVqIc&list=PLGfT2ttRbfixMStpAhPD4pKBQN9wjJmbP&index=3" %}
-
-
-
-
+{% embed url="https://www.youtube.com/watch?v=9QtFdxpVqIc&list=PLGfT2ttRbfixMStpAhPD4pKBQN9wjJmbP&index=3" caption="" %}
 

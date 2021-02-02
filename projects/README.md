@@ -22,9 +22,10 @@ Here is an overview of projects that were made for Discord, from Discord bots to
 
 **Description**: Multipurpose Discord Bot with Dashboard  
 **Maintenance**: Active  
-**Project**:  
-- **Bot**: TypeScript  
-- **Dashboard**: TypeScript and Angular
+**Project**:
+
+* **Bot**: TypeScript  
+* **Dashboard**: TypeScript and Angular
 
 ![2PG Dashboard - 18/01/2021](../.gitbook/assets/image%20%2810%29.png)
 
@@ -34,19 +35,21 @@ Here is an overview of projects that were made for Discord, from Discord bots to
 
 **Description**: Multipurpose Discord Bot with Dashboard  
 **Maintenance**: Unmaintained  
-**Project**:  
-- **Bot**: TypeScript  
-- **Dashboard**: TypeScript and Angular
+**Project**:
 
-{% embed url="https://github.com/3PG" %}
+* **Bot**: TypeScript  
+* **Dashboard**: TypeScript and Angular
+
+{% embed url="https://github.com/3PG" caption="" %}
 
 ### 6PG - Discord Bot Maker
 
 **Description**: Discord Bot Maker with Dashboard  
 **Maintenance**: Unmaintained  
-**Project**:  
-- **API**: TypeScript  
-- **Website**: TypeScript and Angular
+**Project**:
+
+* **API**: TypeScript  
+* **Website**: TypeScript and Angular
 
 {% embed url="https://github.com/theADAMJR/6PG" caption="6PG Bot + API Project" %}
 
@@ -56,9 +59,10 @@ Here is an overview of projects that were made for Discord, from Discord bots to
 
 **Description**: Discord Bot List Website  
 **Maintenance**: Active  
-**Project**:  
-- **API**: TypeScript  
-- **Website**: TypeScript and Angular
+**Project**:
+
+* **API**: TypeScript  
+* **Website**: TypeScript and Angular
 
 ![DBots Home Page - 18/01/2021](../.gitbook/assets/image%20%2837%29.png)
 
@@ -68,11 +72,12 @@ Here is an overview of projects that were made for Discord, from Discord bots to
 
 **Description**: Discord Server List Website  
 **Maintenance**: Active  
-**Project**:  
-- **API**: TypeScript  
-- **Website**: TypeScript and Angular
+**Project**:
 
-{% embed url="https://github.com/dlist-xyz" %}
+* **API**: TypeScript  
+* **Website**: TypeScript and Angular
+
+{% embed url="https://github.com/dlist-xyz" caption="" %}
 
 ## Other
 
@@ -82,5 +87,5 @@ Non-Discord API projects, from a Discord clone to other projects.
 
 ![DClone Guild Preview - 31/12/2020](../.gitbook/assets/image%20%2839%29.png)
 
-{% embed url="https://github.com/d-clone" %}
+{% embed url="https://github.com/d-clone" caption="" %}
 

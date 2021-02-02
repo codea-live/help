@@ -120,7 +120,7 @@ The dashboard URL refers to the local, or deployment website. If you were develo
 
 The mongo URI is used for connecting to the MongoDB database. It should follow the MongoDB URI string format. The database is used for customizing guilds, saving user XP, and much more.
 
-{% embed url="https://docs.mongodb.com/manual/reference/connection-string" %}
+{% embed url="https://docs.mongodb.com/manual/reference/connection-string" caption="" %}
 
 ### _PORT_
 

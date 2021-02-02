@@ -4,7 +4,7 @@ description: Solutions to common 1PG errors.
 
 # Error Help
 
-#### `SyntaxError: Unexpected token =`
+## `SyntaxError: Unexpected token =`
 
 ```text
 on = '';
@@ -14,7 +14,7 @@ SyntaxError: Unexpected token =
 
 **Solution**: NodeJS v14 is required for this syntax
 
-#### `TypeError: Cannot read property 'access_token' of undefined`
+## `TypeError: Cannot read property 'access_token' of undefined`
 
 ```text
   let token = access['access_token'],

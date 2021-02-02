@@ -6,7 +6,7 @@ description: A guide on deploying applications using popular hosting methods.
 
 Here is a guide on popular hosts, that I have had a good experience with, and that I recommend.
 
-### Deploy on Heroku
+## Deploy on Heroku
 
 Heroku is an option that I personally use to host some of my apps for free.
 
@@ -38,9 +38,9 @@ Heroku is an option that I personally use to host some of my apps for free.
   </tbody>
 </table>
 
-{% embed url="https://heroku.com" %}
+{% embed url="https://heroku.com" caption="" %}
 
-### Deploy on DigitalOcean
+## Deploy on DigitalOcean
 
 DigitalOcean is a very reliable service with viable security. I personally use it for my major projects \(2PG, DBots, codea.live etc.\). It costs money, but hosts apps 24/7, without extra challenges. As of writing this, I have not experienced any notable downtime, even with &gt;2 years of service.
 
@@ -75,7 +75,7 @@ DigitalOcean is a very reliable service with viable security. I personally use i
 
 {% embed url="https://m.do.co/c/be464b522714" caption="\"Try DigitalOcean with a $100 credit\"" %}
 
-### What about other hosting services?
+## What about other hosting services?
 
 There are many hosting services, however I will only recommend the ones I have had a great experience with, and I hope you will too.
 

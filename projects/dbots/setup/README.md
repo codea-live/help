@@ -18,11 +18,11 @@ Deployment to Heroku can be done in a few clicks. Refer to the [.env setup](conf
 
 The **API** \(application programming interface\) project is used for managing data for the Discord bot list. It is used as a foundation for the Website project.
 
-{% embed url="https://github.com/DBots-co/API" %}
+{% embed url="https://github.com/DBots-co/API" caption="" %}
 
 The **Website** project is used for _customizing_ the actual website. The website uses Angular, which is a front-end framework that makes the website seem fast and responsive.
 
-{% embed url="https://github.com/DBots-co/Website" %}
+{% embed url="https://github.com/DBots-co/Website" caption="" %}
 
 ### Requirements
 
@@ -55,7 +55,7 @@ npm i
 
 #### Configure Environment Variables
 
-Create a`.env`file in the root project directory. This file is used to securely store private data. See the link below for the up to date template for the `.env` file. ****See the link below to setup the environment variables.
+Create a`.env`file in the root project directory. This file is used to securely store private data. See the link below for the up to date template for the `.env` file. _\*\*_See the link below to setup the environment variables.
 
 {% page-ref page="config.md" %}
 

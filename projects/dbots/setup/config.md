@@ -62,7 +62,7 @@ PORT="3001"
 
 ### How do I get these values?
 
-Most [required options](../../2pg/setup/config.md#required-variables) are linked below as DBots shares common `.env` values with 2PG. 
+Most [required options](../../2pg/setup/config.md#required-variables) are linked below as DBots shares common `.env` values with 2PG.
 
 {% page-ref page="../../2pg/setup/config.md" %}
 
@@ -76,7 +76,7 @@ This is the ID of the role that bots get automatically, when they join your guil
 
 The developer role ID is a role for developers that add a bot to the bot list, and is automatically given.
 
-### DOWNTIME\_CHANNEL_\__ID
+### DOWNTIME\_CHANNEL\_\_\_ID
 
 This is the channel ID for the DBots bot to log bots that are offline for a specific amount of time. This helps notify the bot owner\(s\) to fix the problem.
 
