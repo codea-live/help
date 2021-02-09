@@ -18,7 +18,10 @@
     * [Setup](projects/dbots/setup/README.md)
       * [Config](projects/dbots/setup/config.md)
     * [Customize](projects/dbots/customize.md)
-* [Other Projects](other-projects.md)
+* [Other Projects](other-projects/README.md)
+  * [6PG](other-projects/6pg/README.md)
+    * [Setup](other-projects/6pg/setup/README.md)
+      * [Config](other-projects/6pg/setup/config.md)
 
 ## Hosting
 
