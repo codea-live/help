@@ -28,5 +28,21 @@ npm i
 npm start
 ```
 
+## Configure .env
 
+{% page-ref page="config.md" %}
+
+## Setup Redirect URIs
+
+In the [Discord Developer Portal](https://discord.com/developers), make the your Redirect URIs are set according to your setup.
+
+{% tabs %}
+{% tab title="Developement" %}
+![Development Redirect URIs](../../../.gitbook/assets/image%20%281%29.png)
+{% endtab %}
+
+{% tab title="Production" %}
+![Development Redirect URIs](../../../.gitbook/assets/image%20%286%29.png)
+{% endtab %}
+{% endtabs %}
 
