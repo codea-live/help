@@ -28,7 +28,7 @@ npm i
 npm start
 ```
 
-## Configure .env
+### Configure .env
 
 {% page-ref page="config.md" %}
 
