@@ -18,8 +18,6 @@ description: 'What is 2PG, why it was made, goals for the future, and more.'
 
 Here is a timeline of key events in the creation of 2PG, to the present day.
 
-{% tabs %}
-
 Development on 2PG started in March 2020. The bot was simple and had very few commands.
 
 ![2PG Discord Avatar](../../../.gitbook/assets/image%20%2824%29.png)
