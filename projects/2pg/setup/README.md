@@ -92,6 +92,12 @@ npm start
 You may also need the Angular CLI to be globally installed to serve the website. This can be done with `npm i -g @angular/cli`
 {% endhint %}
 
+## Privileged Intents
+
+The **Server Members Intent** needs to be enabled for 2PG to perform many functions including: reaction roles, guild member events, and more.
+
+![Intents that 2PG uses](../../../.gitbook/assets/image%20%2812%29.png)
+
 ## Redirect URIs
 
 **One last thing**...  
