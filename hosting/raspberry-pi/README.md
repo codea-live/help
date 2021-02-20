@@ -31,14 +31,16 @@ Here are the oversimplified advantages and disadvantages of using a Raspberry Pi
         <ul>
           <li>Small electricity costs</li>
           <li>May require knowledge of terminal commands</li>
-          <li></li>
         </ul>
+        <p></p>
       </td>
     </tr>
   </tbody>
 </table>
 
 ![It Can Even Play Minecraft](../../.gitbook/assets/image%20%2816%29.png)
+
+
 
 ### Credits
 
