@@ -25,6 +25,8 @@
 
 ## Hosting
 
+* [Raspberry Pi](hosting/raspberry-pi/README.md)
+  * [24/7 Hosting](hosting/raspberry-pi/24-7-hosting.md)
 * [Hosting Services](hosting/hosting-services.md)
 * [Internal Pinging](hosting/internal-pinging.md)
 
