@@ -6,7 +6,7 @@ description: A guide to keep Rasberry Pi online 24/7.
 
 {% embed url="https://www.youtube.com/watch?v=FFGsDt0EMBE" %}
 
-### Resurrect Apps on Reboot
+### Start on Startup
 
 This will add a system wide event to cron, a task scheduling process, to auto resurrect saved PM2 processes. This will apply for all system users.
 
