@@ -8,9 +8,17 @@ description: A guide to keep Rasberry Pi online 24/7.
 
 ### Start on Startup
 
-This will add a system wide event to cron, a task scheduling process, to auto resurrect saved PM2 processes. This will apply for all system users.
+#### With PM2
 
-#### For Your User
+This will save a PM2 script to boot at startup. This requires root permissions to execute.
+
+```bash
+pm2 startup | grep "sudo" | bash
+```
+
+#### With Crontab
+
+This will add a system wide event to cron, a task scheduling process, to auto resurrect saved PM2 processes. This will apply for all system users.
 
 ```bash
 crontab -e
