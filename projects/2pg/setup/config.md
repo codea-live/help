@@ -30,10 +30,11 @@ FEEDBACK_CHANNEL_ID=""
 GUILD_ID=""
 OWNER_ID=""
 MONGO_URI="mongodb://localhost/2PG"
+PAYPAL_MODE="sandbox"
+PAYPAL_CLIENT_ID=""
+PAYPAL_SECRET=""
 PORT="3000"
 PREMIUM_ROLE_ID=""
-STRIPE_SECRET_KEY=""
-STRIPE_WEBHOOK_SECRET=""
 TOP_GG_AUTH=""
 VOTE_CHANNEL_ID="788001309197860874"
 ```
@@ -61,6 +62,32 @@ PORT="3001"
 PREMIUM_ROLE_ID=""
 STRIPE_SECRET_KEY=""
 STRIPE_WEBHOOK_SECRET=""
+TOP_GG_AUTH=""
+VOTE_CHANNEL_ID="788001309197860874"
+```
+{% endcode %}
+{% endtab %}
+
+{% tab title="Live" %}
+This template assumes you are deploying 2PG live, and for non development purposes. Replace placeholder values according to your project's needs.
+
+{% code title=".env" %}
+```javascript
+API_URL="https://example.com/api"
+BOT_ID=""
+BOT_TOKEN=""
+CLIENT_SECRET=""
+DASHBOARD_URL="https://example.com"
+DBOTS_AUTH=""
+FEEDBACK_CHANNEL_ID=""
+GUILD_ID=""
+OWNER_ID=""
+MONGO_URI="mongodb://localhost/2PG"
+PAYPAL_MODE="live"
+PAYPAL_CLIENT_ID=""
+PAYPAL_SECRET=""
+PORT="3000"
+PREMIUM_ROLE_ID=""
 TOP_GG_AUTH=""
 VOTE_CHANNEL_ID="788001309197860874"
 ```
@@ -139,4 +166,22 @@ The owner ID refers to your Discord user ID. It is used for getting bot stats, b
 {% endhint %}
 
 ![Get a Discord User ID](../../../.gitbook/assets/image%20%2811%29.png)
+
+### PAYPAL\_CLIENT\_ID
+
+Client ID of the PayPal secret, from the PayPal developers website.
+
+### PAYPAL\_MODE
+
+Should be either `sandbox`, for development, or `live`, for live payments. 
+
+![](../../../.gitbook/assets/image%20%2819%29.png)
+
+### PAYPAL\_SECRET
+
+Client Secret \(hidden - above\) from the PayPal developers website.
+
+### TOP\_GG\_AUTH
+
+Webhook secret from top.gg Discord bot list.
 
