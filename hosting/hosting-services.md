@@ -64,9 +64,9 @@ DigitalOcean is a very reliable service with viable security. I personally use i
       </td>
       <td style="text-align:left">
         <ul>
-          <li>Costs money.</li>
           <li>Takes a while to setup.</li>
           <li>May require Linux expertise, if you run into issues.</li>
+          <li>Expensive, and initial price excludes tax.</li>
         </ul>
       </td>
     </tr>
