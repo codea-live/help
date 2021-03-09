@@ -4,6 +4,8 @@ description: 6PG - Build a Discord Bot With No Code
 
 # 6PG
 
+
+
 {% hint style="warning" %}
 6PG is not actively maintained, and was made mainly as a [YouTube project](https://youtube.com/adamjr).
 {% endhint %}
