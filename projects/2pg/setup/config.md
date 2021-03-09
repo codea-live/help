@@ -119,7 +119,7 @@ The API URL is used to get XP cards via commands, and more. It is also used in A
 
 ![API Root Route](../../../.gitbook/assets/image%20%287%29.png)
 
-### _BOT\_ID_
+### _CLIENT\_ID_
 
 The Bot ID is used for logging into the dashboard \(Discord OAuth2\), and is used to build the authorization URL.
 
