@@ -17,7 +17,7 @@ Port 3000 is commonly used by many Node.js applications. Port 4200 is for the da
 {% code title=".env" %}
 ```javascript
 API_URL="http://localhost:3000/api"
-CLIENT_ID=533947001578979328
+CLIENT_ID="533947001578979328"
 CLIENT_SECRET=""
 DASHBOARD_URL="http://localhost:4200"
 ENCRYPTION_KEY="something secure"
