@@ -6,7 +6,7 @@ description: >-
 
 # Projects
 
-### Why am I here?
+### What projects are there?
 
 These docs support your development with codea.live projects. They range from Discord bot dashboard customization, to setting up a Discord bot list.
 
