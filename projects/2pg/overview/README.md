@@ -8,7 +8,7 @@ description: 'What is 2PG, why it was made, goals for the future, and more.'
 
 2PG is a simple, powerful, Discord bot made with TypeScript. The dashboard is made with Angular. Two different projects are required to fully customize 2PG, one for the Bot and API, one for the dashboard.
 
-![Guild logs send messages in a channel when something happens.](../../../.gitbook/assets/image%20%2818%29.png)
+![Guild logs send messages in a channel when something happens.](../../../.gitbook/assets/image%20%2818%29%20%281%29.png)
 
 ## Why was 2PG made?
 

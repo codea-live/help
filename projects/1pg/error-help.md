@@ -8,7 +8,7 @@ description: Solutions to common 1PG errors.
 
 The **Server Members Intent** needs to be enabled for 1PG to perform many functions including: guild member events, and more. It is also used for the music player. This can be enabled in the [Discord Developer Portal](https://discord.com/developers).
 
-![1PG Privilaged Intents](../../.gitbook/assets/image%20%2813%29.png)
+![1PG Privilaged Intents](../../.gitbook/assets/image%20%2813%29%20%281%29.png)
 
 ## `SyntaxError: Unexpected token =`
 

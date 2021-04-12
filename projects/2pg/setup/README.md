@@ -96,7 +96,7 @@ You may also need the Angular CLI to be globally installed to serve the website.
 
 The **Server Members Intent** needs to be enabled for 2PG to perform many functions including: reaction roles, guild member events, and more.
 
-![Intents that 2PG uses](../../../.gitbook/assets/image%20%2812%29.png)
+![Intents that 2PG uses](../../../.gitbook/assets/image%20%2813%29.png)
 
 ## Redirect URIs
 
