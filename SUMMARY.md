@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Projects](README.md)
+* [Courses](courses.md)
 
 ## Projects
 
