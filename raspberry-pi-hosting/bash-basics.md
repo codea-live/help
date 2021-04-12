@@ -316,9 +316,21 @@ A &       # Run A in background.
 
 {% embed url="https://unix.stackexchange.com/questions/24684/confusing-use-of-and-operators" caption="More on Logical Operators" %}
 
-### Challenge - Make a Trash Command
+## Challenge - Make a Basic Trash Command
 
+You may have to research for this challenge \(i.e. **timestamp** command\).
 
+{% hint style="success" %}
+### Test your knowledge and make a trash / recycle bin command.
 
+**It Should**: Move a file to a trash folder, then append log of filename, and timestamp to a file.
 
+* [ ] Command should be on one line.
+* [ ] Each log should look like this: **\[13:37:01\] file.txt**
+* [ ] Log file should be outside the trash folder.
+{% endhint %}
+
+### A Solution
+
+\(Coming soon\)
 
