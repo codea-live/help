@@ -34,6 +34,6 @@
 
 ## Raspberry Pi Hosting
 
-* [Bash Basics](raspberry-pi-hosting/bash-basics.md)
 * [Overview](raspberry-pi-hosting/overview.md)
+* [Bash Basics](raspberry-pi-hosting/bash-basics.md)
 
