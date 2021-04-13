@@ -15,7 +15,7 @@ For the solution, we will separate each task into separate commands, and then [c
 In the default directory, we will make a directory for storing trash, then a directory for storing logs.
 
 ```bash
-$ mkdir -p ~/trash ~/logs
+$ mkdir ~/trash ~/logs
 ```
 
 ### Move Items to Trash
@@ -45,9 +45,21 @@ $ date 1>> timestamp
 
 [https://help.codea.live/raspberry-pi-hosting/challenges\#challenge-make-a-trash-command](https://help.codea.live/raspberry-pi-hosting/challenges#challenge-make-a-trash-command)
 
-##  \[Bonus\] Make It a Script
+## \[Bonus\] Make It a Script
+
+### Add Script to PATH
 
 ```bash
-$FILE_NAME=""
+$ 
+$ mkdir ~/bin
 ```
+
+{% code title="~/bin/trash" %}
+```bash
+$FILE_NAME=""
+
+```
+{% endcode %}
+
+{% embed url="https://askubuntu.com/questions/60218/how-to-add-a-directory-to-the-path" %}
 

@@ -25,9 +25,9 @@
     * [Config](projects/dbots/setup/config.md)
   * [Customize](projects/dbots/customize.md)
 
-## 101
+## Bash Basics <a id="bash"></a>
 
-* [Bash Basics](101/bash-basics.md)
+* [Bash Basics](bash/basics.md)
 
 ## Raspberry Pi Hosting
 

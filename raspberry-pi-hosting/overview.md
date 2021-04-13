@@ -15,7 +15,7 @@ Course content should be completed before May 2021.
 
 ### Learn the Basics of Bash
 
-{% page-ref page="../101/bash-basics.md" %}
+{% page-ref page="../bash/basics.md" %}
 
 
 
