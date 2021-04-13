@@ -318,6 +318,10 @@ A &       # Run A in background.
 
 ## Challenge - Make a Trash Command
 
+{% hint style="success" %}
+Doing is the most effective way of learning, and will help reinforce your knowledge and understanding.
+{% endhint %}
+
 {% page-ref page="../raspberry-pi-hosting/challenges/bash-trash-command.md" %}
 
 ## References
