@@ -318,7 +318,7 @@ A &       # Run A in background.
 
 ## Challenge - Make a Basic Trash Command
 
-You may have to research for this challenge \(i.e. **timestamp** command\).
+You may have to research for this challenge \(i.e. date/cut command\).
 
 {% hint style="success" %}
 ### Test your knowledge and make a trash / recycle bin command.
