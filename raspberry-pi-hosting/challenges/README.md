@@ -4,10 +4,14 @@ description: Challenges and solutions froim the Raspberry Pi hosting course.
 
 # Challenges
 
+{% hint style="success" %}
+Doing is the most effective way of learning, and will help reinforce your knowledge and understanding.
+{% endhint %}
+
 ## Challenge - Make a Trash Command
 
 {% hint style="success" %}
-### Test your knowledge and make a trash / recycle bin command.
+### Test your knowledge and make a trash / recycle bin script.
 
 **It Should**: Move a file to a trash folder, then append log of filename, and timestamp to a file.
 
