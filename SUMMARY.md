@@ -29,14 +29,16 @@
 
 * [Bash Basics](101/bash-basics.md)
 
+## Raspberry Pi Hosting
+
+* [Overview](raspberry-pi-hosting/overview.md)
+* [Challenges](raspberry-pi-hosting/challenges/README.md)
+  * [Bash - Trash Command](raspberry-pi-hosting/challenges/bash-trash-command.md)
+
 ## Hosting
 
 * [Raspberry Pi](hosting/raspberry-pi/README.md)
   * [24/7 Hosting](hosting/raspberry-pi/24-7-hosting.md)
 * [Hosting Services](hosting/hosting-services.md)
 * [Internal Pinging](hosting/internal-pinging.md)
-
-## Raspberry Pi Hosting
-
-* [Overview](raspberry-pi-hosting/overview.md)
 
