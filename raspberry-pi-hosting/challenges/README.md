@@ -16,13 +16,13 @@ Doing is the most effective way of learning, and will help reinforce your knowle
 ### Test your knowledge and make a clean command.
 
 **Purpose**: Organize Downloads and Pictures folders to prevent them from getting messy.  
-**It Should**: Delete all files in Downloads, and move screenshots into Pictures/screenshots.  
+**It Should**: Delete all files in Downloads, and move all screenshots into Pictures/screenshots.  
 **Hint**: you should use the \* wildcard.
 
 * [ ] Command should be on one line.
+* [ ] Downloads and Pictures should be in the default directory \(**`~`**\).
 * [ ] In this context, screenshots are any file that starts with 'Screenshot' 
   * Screenshots are created in Ubuntu 20.04 when you press **`prt sc`**.
-* [ ] 
 {% endhint %}
 
 ## Challenge - Make a Today Command
