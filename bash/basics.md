@@ -283,7 +283,13 @@ The move command can also be used to **rename** files/folders.
 $ mv file1.txt file2.txt
 ```
 
-## References
+## Further Reading
+
+### [Challenge - Make a Clean Command](../raspberry-pi-hosting/challenges/#challenge-make-a-clean-command)
+
+{% hint style="success" %}
+You should now be ready for this challenge. Doing is the most effective way of learning, and will help reinforce your knowledge and understanding.
+{% endhint %}
 
 {% hint style="info" %}
 This content is from an upcoming [Raspberry Pi hosting course](../raspberry-pi-hosting/overview.md).
