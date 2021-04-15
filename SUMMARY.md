@@ -25,7 +25,7 @@
     * [Config](projects/dbots/setup/config.md)
   * [Customize](projects/dbots/customize.md)
 
-## Bash Basics <a id="bash"></a>
+## Bash
 
 * [Bash Basics](bash/basics.md)
 
