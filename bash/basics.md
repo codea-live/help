@@ -316,12 +316,6 @@ A &       # Run A in background.
 
 {% embed url="https://unix.stackexchange.com/questions/24684/confusing-use-of-and-operators" caption="More on Logical Operators" %}
 
-## [Challenge - Make a Trash Command](../raspberry-pi-hosting/challenges/#challenge-make-a-trash-command)
-
-{% hint style="success" %}
-Doing is the most effective way of learning, and will help reinforce your knowledge and understanding.
-{% endhint %}
-
 ## References
 
 {% hint style="info" %}

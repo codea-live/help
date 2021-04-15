@@ -28,6 +28,7 @@
 ## Bash
 
 * [Bash Basics](bash/basics.md)
+* [Bash Intermediate](bash/intermediate.md)
 
 ## Raspberry Pi Hosting
 
