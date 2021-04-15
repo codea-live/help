@@ -8,6 +8,31 @@ description: Get started with bash and learn maximize your efficiency with Linux
 This content is from an upcoming [Raspberry Pi hosting course](../raspberry-pi-hosting/overview.md).
 {% endhint %}
 
+## What is Bash?
+
+Bash is a shell and command language that allows you to efficiently perform tasks.
+
+Let's say for example, you wanted to create a folder and put 100,000 text files in it, with a unique name.  
+This is something you can do with bash.
+
+```bash
+$ mkdir text
+$ touch text/{1..100000}.txt
+```
+
+Now let's count how many files were created in this folder.
+
+```bash
+$ ls text | wc -l
+100000
+```
+
+We successfully created 100,000 text files!
+
+{% hint style="info" %}
+This was just a demo, so don't worry about memorizing these commands. The basics are most important, and will be covered first.
+{% endhint %}
+
 ## How the Terminal Works
 
 ### What is the terminal?
