@@ -10,7 +10,8 @@ This content is from an upcoming [Raspberry Pi hosting course](../raspberry-pi-h
 
 ## What is Bash?
 
-Bash is a shell and command language that allows you to efficiently perform tasks.
+Bash is a shell and command language that allows you to efficiently perform tasks.  
+It comes with Linux, and MacOS. You can also [install it on Windows](https://docs.microsoft.com/en-us/windows/wsl/about).
 
 Let's say for example, you wanted to create a folder and put 100,000 text files in it, with a unique name.  
 This is something you can do with bash.
