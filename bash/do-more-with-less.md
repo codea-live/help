@@ -14,13 +14,35 @@ This content is from an upcoming [Raspberry Pi hosting course](../raspberry-pi-h
 
 Wildcard characters are used to define **patterns** for searching text on data in bash.
 
-### Star or Asterisk \(\*\)
+{% hint style="info" %}
+The find command is used for finding files within a directory.  
+Type `man find` for more info.
+{% endhint %}
+
+### Anything - Star or Asterisk \(\*\)
+
+Used to search for any character, zero or more times.
+
+```bash
+$ find *
+
+```
+
+### Unknown - Question Mark \(?\)
+
+Used to search for a fixed number of characters. '?' can indicate an unknown character.
+
+```bash
+$ find ?
+a
+b
+```
+
+### Range - Square Brackets \(\[\]\)
+
+Used to search for a range of characters \(i.e. 0-9, a-z\).
 
 
-
-### Question Mark \(?\)
-
-### Square Brackets \(\[\]\)
 
 ## Piping
 
