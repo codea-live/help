@@ -103,7 +103,37 @@ $ find 20-04-21-21????.log
 
 Used to search for a range of characters \(i.e. 0-9, a-z\).
 
+{% tabs %}
+{% tab title="Example 1" %}
+This is useful for finding files that start with any number from 0-9.
 
+```bash
+$ find [0-9].txt
+1.txt
+2.txt
+3.txt
+```
+{% endtab %}
+
+{% tab title="Example 2" %}
+This also works with the alphabet.
+
+```bash
+$ find [a-z].png
+a.png
+b.png
+c.png
+```
+{% endtab %}
+
+{% tab title="Example 3" %}
+
+
+```bash
+
+```
+{% endtab %}
+{% endtabs %}
 
 ## Piping
 
