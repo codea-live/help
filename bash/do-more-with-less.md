@@ -105,7 +105,7 @@ Used to search for a range of characters \(i.e. 0-9, a-z\).
 
 {% tabs %}
 {% tab title="Example 1" %}
-This is useful for finding files that start with any number from 0-9.
+This is useful for finding files that start with any number from 0-9. This is called a **range**.
 
 ```bash
 $ find [0-9].txt
@@ -116,7 +116,7 @@ $ find [0-9].txt
 {% endtab %}
 
 {% tab title="Example 2" %}
-This also works with the alphabet.
+This also works with the alphabet!
 
 ```bash
 $ find [a-z].png
@@ -127,10 +127,14 @@ c.png
 {% endtab %}
 
 {% tab title="Example 3" %}
-
+The square bracket can combine characters to make a **set**. The character can only be any character within the set. 
 
 ```bash
-
+$ find [23ac].???
+2.txt
+3.txt
+a.png
+c.png
 ```
 {% endtab %}
 {% endtabs %}
