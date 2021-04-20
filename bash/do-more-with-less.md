@@ -15,7 +15,7 @@ This content is from an upcoming [Raspberry Pi hosting course](../raspberry-pi-h
 Wildcard characters are used to define **patterns** for searching text on data in bash.
 
 {% hint style="info" %}
-The find command is used for finding files within a directory.  
+The find command is used for finding files or folders within a folder.  
 Type `man find` for more info.
 {% endhint %}
 
@@ -23,20 +23,81 @@ Type `man find` for more info.
 
 Used to search for any character, zero or more times.
 
+{% tabs %}
+{% tab title="Example 1" %}
+This will find everything in the current directory.
+
 ```bash
 $ find *
-
+1.txt
+2.txt
+3.txt
+a.png
+b.png
+c.png
+error.log
+log.log
+log.txt
+20-04-21-213100.log
 ```
+{% endtab %}
+
+{% tab title="Example 2" %}
+This is also useful if you want to find anything that matches a file extension.
+
+```bash
+$ find *.png
+```
+{% endtab %}
+
+{% tab title="Example 3" %}
+This is used to find a file with a specific name and any file extension.
+
+```bash
+$ find log.*
+log.log
+log.txt
+```
+{% endtab %}
+{% endtabs %}
 
 ### Unknown - Question Mark \(?\)
 
 Used to search for a fixed number of characters. '?' can indicate an unknown character.
 
+{% tabs %}
+{% tab title="Example 1" %}
+This will find any .txt file with a 1 character name.
+
 ```bash
-$ find ?
-a
-b
+$ find ?.txt
+1.txt
+2.txt
+3.txt
 ```
+{% endtab %}
+
+{% tab title="Example 2" %}
+This will find any file name, with a 3 letter file extension, with 'x' in the middle.
+
+```bash
+$ find *.?x?
+1.txt
+2.txt
+3.txt
+log.txt
+```
+{% endtab %}
+
+{% tab title="Example 3" %}
+In this example, this operator can be useful for finding log files at a specific hour.
+
+```bash
+$ find 20-04-21-21????.log
+20-04-21-213100.log
+```
+{% endtab %}
+{% endtabs %}
 
 ### Range - Square Brackets \(\[\]\)
 
