@@ -27,7 +27,7 @@
 
 ## Bash
 
-* [Bash Basics](bash/basics.md)
+* [Bash - The Basics](bash/basics.md)
 * [Bash - Do More With Less](bash/do-more-with-less.md)
 
 ## Raspberry Pi Hosting

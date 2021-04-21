@@ -2,7 +2,7 @@
 description: Get started with bash and learn maximize your efficiency with Linux!
 ---
 
-# Bash Basics
+# Bash - The Basics
 
 {% hint style="info" %}
 This content is from an upcoming [Raspberry Pi hosting course](../raspberry-pi-hosting/overview.md).
