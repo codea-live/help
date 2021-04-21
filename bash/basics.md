@@ -5,7 +5,11 @@ description: Get started with bash and learn maximize your efficiency with Linux
 # Bash - The Basics
 
 {% hint style="success" %}
-After this guide you will:
+**Prerequisites**: none.
+{% endhint %}
+
+{% hint style="success" %}
+**After this guide you will**:
 
 * Be more efficient with the bash shell.
 * Know [what bash is](basics.md#what-is-bash) and what you can do with it.

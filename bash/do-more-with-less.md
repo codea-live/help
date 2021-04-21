@@ -7,7 +7,11 @@ description: >-
 # Bash - Do More With Less
 
 {% hint style="success" %}
-After this guide you will:
+**Prerequisites**: [know the basics of bash](basics.md).
+{% endhint %}
+
+{% hint style="success" %}
+**After this guide you will**:
 
 * Be more efficient with the bash shell.
 * Learn how to [execute previous bash commands](do-more-with-less.md#time-travel-bash-history).
