@@ -7,7 +7,7 @@ description: Get started with bash and learn maximize your efficiency with Linux
 {% hint style="success" %}
 After this guide you will:
 
-* More efficient with the bash shell.
+* Be more efficient with the bash shell.
 * Learn what bash is and what you can do with it.
 * Learn how the terminal works.
 * Know how to find all you need to know for nearly every command.
