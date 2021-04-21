@@ -15,8 +15,8 @@ description: >-
 * Know how to [execute previous bash commands](do-more-with-less.md#time-travel-bash-history).
 * Know how to [clear bash command history](do-more-with-less.md#how-to-clear-bash-history).
 * Know how to shortern commands with [aliases](do-more-with-less.md#shorten-commands-bash-aliases).
-* Know how to customize the terminal colours.
-* Know how to create patterns to match file and folder names.
+* Know how to [customize the terminal colours](do-more-with-less.md#customize-the-terminal-command-prefix).
+* Know how to [create patterns](do-more-with-less.md#wildcards) to match file and folder names.
 * Be able to create [bash pipelines](do-more-with-less.md#piping) to do more with less.
 * Know how to [execute multiple commands with one command](do-more-with-less.md#brace-expansion).
 * Reinforce your knowledge with a [quick challenge](do-more-with-less.md#challenge-make-a-today-command).
