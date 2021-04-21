@@ -6,6 +6,16 @@ description: >-
 
 # Bash - Do More With Less
 
+{% hint style="success" %}
+After this guide you will:
+
+* Be more efficient with the bash shell.
+* Learn how to [execute previous bash commands](do-more-with-less.md#time-travel-bash-history).
+* Learn how to [clear bash command history](do-more-with-less.md#how-to-clear-bash-history).
+* Learn how to shortern commands with [aliases](do-more-with-less.md#shorten-commands-bash-aliases).
+* Reinforce your knowledge with a [quick challenge](do-more-with-less.md#challenge-make-a-today-command).
+{% endhint %}
+
 {% hint style="info" %}
 This content is from an upcoming [Raspberry Pi hosting course](../raspberry-pi-hosting/overview.md).
 {% endhint %}
@@ -306,8 +316,6 @@ $ echo {1..3}{1..3}{1..3} # 3*3*3 = 27 combinations
 {% hint style="success" %}
 Doing is the most effective way of learning, and will help reinforce your knowledge and understanding.
 {% endhint %}
-
-### References
 
 {% hint style="info" %}
 This content is from an upcoming [Raspberry Pi hosting course](../raspberry-pi-hosting/overview.md).

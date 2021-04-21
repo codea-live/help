@@ -8,14 +8,14 @@ description: Get started with bash and learn maximize your efficiency with Linux
 After this guide you will:
 
 * Be more efficient with the bash shell.
-* Learn what bash is and what you can do with it.
-* Learn how the terminal works.
-* Know how to find all you need to know for nearly every command.
-* Be able to list directories and find file metadata.
-* Be able to navigate around the terminal.
-* Be able to create, read, update, and delete files and folders.
-* Be able to copy and move files and folders.
-* Reinforce your knowledge with a short challenge.
+* Know [what bash is](basics.md#what-is-bash) and what you can do with it.
+* Know [how the terminal works](basics.md#how-the-terminal-works).
+* Know how to [find all you need to know for nearly every command](basics.md#man-the-command-manual).
+* Be able to [list directories](basics.md#list-files) and [find file metadata](basics.md#file-metadata).
+* Be able to [navigate around the terminal](basics.md#navigation-move-around).
+* Be able to [create](basics.md#create-files-and-folders), [read](basics.md#read-with-less), [update](basics.md#update-with-nano), and [delete](basics.md#delete-files-and-folders) files and folders.
+* Be able to [copy and move](basics.md#file-management-copy-and-move) files and folders.
+* Reinforce your knowledge with a [short challenge](../raspberry-pi-hosting/challenges/#challenge-make-a-clean-command).
 {% endhint %}
 
 {% hint style="info" %}
@@ -297,9 +297,7 @@ The move command can also be used to **rename** files/folders.
 $ mv file1.txt file2.txt
 ```
 
-## Further Reading
-
-### [Challenge - Make a Clean Command](../raspberry-pi-hosting/challenges/#challenge-make-a-clean-command)
+## [Challenge - Make a Clean Command](../raspberry-pi-hosting/challenges/#challenge-make-a-clean-command)
 
 {% hint style="success" %}
 You should now be ready for this challenge. Doing is the most effective way of learning, and will help reinforce your knowledge and understanding.
