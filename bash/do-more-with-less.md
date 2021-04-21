@@ -6,6 +6,8 @@ description: >-
 
 # Bash - Do More With Less
 
+## In This Guide...
+
 {% hint style="success" %}
 **Prerequisites**: [know the basics of bash](basics.md).
 {% endhint %}

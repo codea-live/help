@@ -4,6 +4,8 @@ description: Get started with bash and learn maximize your efficiency with Linux
 
 # Bash - The Basics
 
+## In This Guide...
+
 {% hint style="success" %}
 **Prerequisites**: none.
 {% endhint %}
