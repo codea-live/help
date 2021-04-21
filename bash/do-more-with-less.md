@@ -9,17 +9,20 @@ description: >-
 ## In This Guide...
 
 {% hint style="success" %}
-**Prerequisites**: [know the basics of bash](basics.md).
-{% endhint %}
-
-{% hint style="success" %}
 **After this guide you will**:
 
 * Be more efficient with the bash shell.
-* Learn how to [execute previous bash commands](do-more-with-less.md#time-travel-bash-history).
-* Learn how to [clear bash command history](do-more-with-less.md#how-to-clear-bash-history).
-* Learn how to shortern commands with [aliases](do-more-with-less.md#shorten-commands-bash-aliases).
+* Know how to [execute previous bash commands](do-more-with-less.md#time-travel-bash-history).
+* Know how to [clear bash command history](do-more-with-less.md#how-to-clear-bash-history).
+* Know how to shortern commands with [aliases](do-more-with-less.md#shorten-commands-bash-aliases).
+* Know how to create patterns to 
+* Be able to create [bash pipelines](do-more-with-less.md#piping) to do more with less.
+* Know how to [execute multiple commands with one command](do-more-with-less.md#brace-expansion).
 * Reinforce your knowledge with a [quick challenge](do-more-with-less.md#challenge-make-a-today-command).
+{% endhint %}
+
+{% hint style="success" %}
+**Prerequisites**: [know the basics of bash](basics.md).
 {% endhint %}
 
 {% hint style="info" %}
@@ -326,4 +329,8 @@ Doing is the most effective way of learning, and will help reinforce your knowle
 {% hint style="info" %}
 This content is from an upcoming [Raspberry Pi hosting course](../raspberry-pi-hosting/overview.md).
 {% endhint %}
+
+## Disclaimer
+
+Raspberry Pi is a trademark of the Raspberry Pi Foundation.
 

@@ -7,10 +7,6 @@ description: Get started with bash and learn maximize your efficiency with Linux
 ## In This Guide...
 
 {% hint style="success" %}
-**Prerequisites**: none.
-{% endhint %}
-
-{% hint style="success" %}
 **After this guide you will**:
 
 * Be more efficient with the bash shell.
@@ -22,6 +18,10 @@ description: Get started with bash and learn maximize your efficiency with Linux
 * Be able to [create](basics.md#create-files-and-folders), [read](basics.md#read-with-less), [update](basics.md#update-with-nano), and [delete](basics.md#delete-files-and-folders) files and folders.
 * Be able to [copy and move](basics.md#file-management-copy-and-move) files and folders.
 * Reinforce your knowledge with a [short challenge](../raspberry-pi-hosting/challenges/#challenge-make-a-clean-command).
+{% endhint %}
+
+{% hint style="success" %}
+**Prerequisites**: none.
 {% endhint %}
 
 {% hint style="info" %}
