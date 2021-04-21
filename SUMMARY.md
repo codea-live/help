@@ -30,7 +30,7 @@
 * [Bash - The Basics](bash/basics.md)
 * [Bash - Do More With Less](bash/do-more-with-less.md)
 
-## Raspberry Pi Hosting
+## RPi 101 <a id="raspberry-pi-hosting"></a>
 
 * [Overview](raspberry-pi-hosting/overview.md)
 * [Challenges](raspberry-pi-hosting/challenges/README.md)
