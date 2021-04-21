@@ -62,6 +62,10 @@ Sometimes history may get messy, and mine had 500+ previous commands, before mak
 $ history -c; history -w;
 ```
 
+{% hint style="info" %}
+`.bash_history` stores bash history.
+{% endhint %}
+
 ## .bashrc
 
 > `.bashrc` is a Bash [shell script](http://en.wikipedia.org/wiki/Shell_script) that Bash runs whenever it is started interactively.
