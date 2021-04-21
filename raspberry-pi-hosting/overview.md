@@ -17,5 +17,7 @@ Course content should be completed before May 2021.
 
 {% page-ref page="../bash/basics.md" %}
 
-
+{% hint style="info" %}
+**Disclaimer**: Raspberry Pi is a trademark of the Raspberry Pi Foundation.
+{% endhint %}
 

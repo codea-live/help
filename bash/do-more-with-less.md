@@ -330,7 +330,3 @@ Doing is the most effective way of learning, and will help reinforce your knowle
 This content is from an upcoming [Raspberry Pi hosting course](../raspberry-pi-hosting/overview.md).
 {% endhint %}
 
-## Disclaimer
-
-Raspberry Pi is a trademark of the Raspberry Pi Foundation.
-
