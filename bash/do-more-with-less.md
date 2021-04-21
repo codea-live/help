@@ -10,6 +10,42 @@ description: >-
 This content is from an upcoming [Raspberry Pi hosting course](../raspberry-pi-hosting/overview.md).
 {% endhint %}
 
+## Time Travel - Bash History
+
+Here you will learn how to go back in time and execute previous commands. This is how....
+
+#### The history command lets us see previously executed commands.
+
+```bash
+$ history
+    1  ls
+    2  echo "Testing123"
+    3  ls
+    4  history
+```
+
+We can then execute them with `!<command_number>`.
+
+```bash
+$ !2
+echo Testing123
+Testing123
+```
+
+### How to Clear Bash History
+
+Sometimes history may get messy, and mine had 500+ previous commands, before making this tutorial.
+
+#### Syntax
+
+```bash
+$ history -c; history -w;
+```
+
+## Shorten Commands - Bash Aliases
+
+
+
 ## Wildcards
 
 Wildcard characters are used to define **patterns** for searching text on data in bash.

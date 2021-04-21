@@ -4,6 +4,20 @@ description: Get started with bash and learn maximize your efficiency with Linux
 
 # Bash - The Basics
 
+{% hint style="success" %}
+After this guide you will:
+
+* More efficient with the bash shell.
+* Learn what bash is and what you can do with it.
+* Learn how the terminal works.
+* Know how to find all you need to know for nearly every command.
+* Be able to list directories and find file metadata.
+* Be able to navigate around the terminal.
+* Be able to create, read, update, and delete files and folders.
+* Be able to copy and move files and folders.
+* Reinforce your knowledge with a short challenge.
+{% endhint %}
+
 {% hint style="info" %}
 This content is from an upcoming [Raspberry Pi hosting course](../raspberry-pi-hosting/overview.md).
 {% endhint %}
