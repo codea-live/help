@@ -15,7 +15,8 @@ description: >-
 * Know how to [execute previous bash commands](do-more-with-less.md#time-travel-bash-history).
 * Know how to [clear bash command history](do-more-with-less.md#how-to-clear-bash-history).
 * Know how to shortern commands with [aliases](do-more-with-less.md#shorten-commands-bash-aliases).
-* Know how to create patterns to 
+* Know how to customize the terminal colours.
+* Know how to create patterns to match file and folder names.
 * Be able to create [bash pipelines](do-more-with-less.md#piping) to do more with less.
 * Know how to [execute multiple commands with one command](do-more-with-less.md#brace-expansion).
 * Reinforce your knowledge with a [quick challenge](do-more-with-less.md#challenge-make-a-today-command).
@@ -61,9 +62,77 @@ Sometimes history may get messy, and mine had 500+ previous commands, before mak
 $ history -c; history -w;
 ```
 
+## .bashrc
+
+> `.bashrc` is a Bash [shell script](http://en.wikipedia.org/wiki/Shell_script) that Bash runs whenever it is started interactively.
+
+{% embed url="https://unix.stackexchange.com/questions/129143/what-is-the-purpose-of-bashrc-and-how-does-it-work" %}
+
+Hence when .bashrc looks like this...
+
+{% code title="~/.bashrc" %}
+```bash
+echo "Testing123"
+```
+{% endcode %}
+
+Then we reload the terminal with `bash` we get this...
+
+```bash
+$ adam@adam-desktop:~$ bash
+Testing123
+```
+
+#### Every time the bash terminal is loaded, `.bashrc` is executed.
+
+### Customize the Terminal - Command Prefix
+
+`.bashrc` can be used for many things including **customizing** the bash **command** **prefix**.
+
+This is how I did it:
+
+{% code title="~/.bashrc" %}
+```bash
+PS1='[\033[1;31m]\u[\033[m]@[\033[1;32m]\h[\033[m]:[\033[1;36m]\w[\033[m]$[\033[m] '
+```
+{% endcode %}
+
+![Now the prefix has colours!](../.gitbook/assets/image%20%2846%29.png)
+
 ## Shorten Commands - Bash Aliases
 
+```bash
+alias <name>="<command>"
+```
 
+#### Example
+
+{% code title="~/.bashrc" %}
+```bash
+alias testing123="echo 'It Worked!'"
+```
+{% endcode %}
+
+```bash
+$ bash # or manually reopen the terminal
+$ testing123
+It Worked!
+```
+
+### Use .bash\_aliases for aliases
+
+In the **default folder** \(`~`\), we can create **special file** called `.bash_aliases`. This is a conventional file to contain bash aliases. 
+
+This is optional, but the code in `.bashrc` below should load the aliases in the file.
+
+{% code title="~/.bashrc" %}
+```bash
+if [ -f $HOME/.bash_aliases ]
+then
+  . $HOME/.bash_aliases
+fi
+```
+{% endcode %}
 
 ## Wildcards
 
