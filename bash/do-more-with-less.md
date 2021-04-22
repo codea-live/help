@@ -147,6 +147,14 @@ The find command is used for finding files or folders within a folder.
 Type `man find` for more info.
 {% endhint %}
 
+### Grep - Match Patterns in Strings
+
+The code below will find the line containing `'-e '`, and output it.
+
+```bash
+$ man grep | grep -e '-e '
+```
+
 ### Anything - Star or Asterisk \(\*\)
 
 Used to search for any character, zero or more times.
@@ -230,6 +238,10 @@ $ find 20-04-21-21????.log
 ### Range - Square Brackets \(\[\]\)
 
 Used to search for a range of characters \(i.e. 0-9, a-z\).
+
+{% hint style="info" %}
+Ranges are case sensitive. Therefore, `[a-z]` will not match 'Z', but `[A-Z]` will.
+{% endhint %}
 
 {% tabs %}
 {% tab title="Example 1" %}
