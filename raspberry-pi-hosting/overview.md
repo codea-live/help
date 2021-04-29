@@ -10,7 +10,8 @@ description: >-
 ## Coming soon...
 
 {% hint style="info" %}
-Course content should be completed before May 2021.
+Course content should be completed before May 2021.  
+**Update**: delayed due to accord.app development.
 {% endhint %}
 
 ### Learn the Basics of Bash
