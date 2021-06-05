@@ -35,6 +35,7 @@
 * [Overview](raspberry-pi-hosting/overview.md)
 * [Challenges](raspberry-pi-hosting/challenges/README.md)
   * [Bash - Trash Command](raspberry-pi-hosting/challenges/bash-trash-command.md)
+* [Log Uptime](raspberry-pi-hosting/log-uptime.md)
 
 ## Hosting
 
@@ -42,5 +43,4 @@
   * [24/7 Hosting](hosting/raspberry-pi/24-7-hosting.md)
 * [Hosting Services](hosting/hosting-services.md)
 * [Internal Pinging](hosting/internal-pinging.md)
-* [Log Uptime](hosting/log-uptime.md)
 
