@@ -28,7 +28,9 @@ Go to [statuspage.io](https://statuspage.io), and follow the instructions to mak
 
 ## 1 - Create System Metrics
 
-
+{% hint style="warning" %}
+Guide incomplete.
+{% endhint %}
 
 ## Further Reading
 
