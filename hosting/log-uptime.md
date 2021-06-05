@@ -16,9 +16,11 @@ description: >-
 
 If you are using Cloudflare, and the website times out due to no connection with the website server, you may see around[ 30,000ms](https://accord.statuspage.io/#month) in the graph.
 
-[More info on Cloudflare error 522](https://support.cloudflare.com/hc/en-us/articles/115003011431-Troubleshooting-Cloudflare-5XX-errors#522error)
+[More info on Cloudflare error 522](https://support.cloudflare.com/hc/en-us/articles/115003011431-Troubleshooting-Cloudflare-5XX-errors#522error).
 
 ![An example from accord.app status. ](../.gitbook/assets/image%20%2848%29.png)
+
+
 
 
 
