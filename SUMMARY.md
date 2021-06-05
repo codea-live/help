@@ -42,4 +42,5 @@
   * [24/7 Hosting](hosting/raspberry-pi/24-7-hosting.md)
 * [Hosting Services](hosting/hosting-services.md)
 * [Internal Pinging](hosting/internal-pinging.md)
+* [Log Uptime](hosting/log-uptime.md)
 
