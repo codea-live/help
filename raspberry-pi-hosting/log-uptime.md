@@ -10,7 +10,7 @@ description: >-
 
 #### We will ping our website, every 3 minutes, and send the response time to [Statuspage](https://statuspage.io) so we can log it in a graph.
 
-### We will use
+### What we will use
 
 This guide assumes you have access to bash commands, and is intended for use with a Linux web server.
 
@@ -31,6 +31,10 @@ Go to [statuspage.io](https://statuspage.io), and follow the instructions to mak
 {% hint style="warning" %}
 Guide incomplete.
 {% endhint %}
+
+## 2 - Send Metrics to Status Page API
+
+
 
 ## Further Reading
 
