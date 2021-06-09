@@ -28,13 +28,30 @@ Go to [statuspage.io](https://statuspage.io), and follow the instructions to mak
 
 ## 1 - Create System Metrics
 
+## 2 - Send Metrics to Status Page API
+
+{% code title="metrics.sh" %}
+```bash
+curl https://api.statuspage.io/v1/pages/{page_id}/metrics/{metric_id} \
+  -H "Authorization: OAuth your-api-key-goes-here" \
+  -X PATCH \
+  -d "metric[name]=string"
+```
+{% endcode %}
+
+{% embed url="https://developer.statuspage.io/\#operation/patchPagesPageIdMetricsMetricId" %}
+
+## 3 - Automate Script Execution
+
+Execute this script every 5 minutes.
+
+```bash
+*/5 * * * * <path>/metrics.sh
+```
+
 {% hint style="warning" %}
 Guide incomplete.
 {% endhint %}
-
-## 2 - Send Metrics to Status Page API
-
-
 
 ## Further Reading
 
