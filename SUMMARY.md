@@ -3,7 +3,7 @@
 * [Projects](README.md)
 * [Courses](courses.md)
 
-## Projects
+## Discord Projects <a id="projects"></a>
 
 * [1PG](projects/1pg/README.md)
   * [Error Help](projects/1pg/error-help.md)
