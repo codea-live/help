@@ -38,12 +38,6 @@ Here are the oversimplified advantages and disadvantages of using a Raspberry Pi
   </tbody>
 </table>
 
-![It Can Even Play Minecraft](../../.gitbook/assets/image%20%2816%29.png)
-
-### Credits
-
-[Image Credit](https://magpi.raspberrypi.org/articles/minecraft-pi) 
-
 
 
 
