@@ -16,5 +16,9 @@ description: 'All-in-one guide for setting up a simple, powerful Discord bot - 2
 
 {% embed url="https://discord.io/adamjr" caption="Support Server" %}
 
+{% embed url="https://github.com/twopg" %}
+
+
+
 ![Image by tkt](../../.gitbook/assets/giphy.gif)
 

@@ -4,11 +4,9 @@ description: 6PG - Build a Discord Bot With No Code
 
 # 6PG
 
-{% page-ref page="../2pg/customize.md" %}
-
-6PG is quite similar to 2PG, and can be customized the same way. Check the guide below to learn more.
-
 {% page-ref page="setup/" %}
+
+{% page-ref page="../2pg/customize.md" %}
 
 {% embed url="https://github.com/theADAMJR/6PG" caption="API Project \(used to handle data, and login the bots\)" %}
 

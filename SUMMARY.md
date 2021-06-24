@@ -16,7 +16,6 @@
   * [Setup](projects/6pg/setup/README.md)
     * [Config](projects/6pg/setup/config.md)
 * [DBots](projects/dbots/README.md)
-  * [DBots Discord](https://discord.gg/uDTgxyg)
   * [Overview](projects/dbots/overview/README.md)
     * [View Demo](https://dbots.co)
   * [Setup](projects/dbots/setup/README.md)
