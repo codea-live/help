@@ -12,5 +12,7 @@ description: >-
 
 {% page-ref page="setup/" %}
 
+{% embed url="https://dbots.co" caption="DBots - Live Demo" %}
+
 {% embed url="https://github.com/dbots-co" caption="" %}
 
