@@ -8,7 +8,7 @@ description: >-
 
 ![DBots - Find the Best Discord Bots](../../.gitbook/assets/image%20%2840%29.png)
 
-{% page-ref page="overview/" %}
+{% page-ref page="overview.md" %}
 
 {% page-ref page="setup/" %}
 
