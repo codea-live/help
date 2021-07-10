@@ -25,7 +25,7 @@ description: Get started with bash and learn maximize your efficiency with Linux
 {% endhint %}
 
 {% hint style="info" %}
-This content is from an upcoming [Raspberry Pi hosting course](../raspberry-pi-hosting/overview.md).
+This content is from the [Complete Raspberry Pi 24/7 Hosting Course](https://bit.ly/raspberry-pi-hosting).
 {% endhint %}
 
 ## What is Bash?

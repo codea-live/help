@@ -27,7 +27,7 @@ description: >-
 {% endhint %}
 
 {% hint style="info" %}
-This content is from an upcoming [Raspberry Pi hosting course](../raspberry-pi-hosting/overview.md).
+This content is from the [Complete Raspberry Pi 24/7 Hosting Course](https://bit.ly/raspberry-pi-hosting).
 {% endhint %}
 
 ## Time Travel - Bash History
