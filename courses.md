@@ -6,7 +6,9 @@ description: Find courses to help you better understand programming.
 
 {% embed url="https://bit.ly/best-discord-bot" %}
 
-\(Raspberry Pi Hosting course coming soon\)
+{% embed url="https://bit.ly/raspberry-pi-hosting" %}
+
+
 
 
 
