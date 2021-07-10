@@ -7,12 +7,7 @@ description: >-
 
 # Overview
 
-## Coming soon...
-
-{% hint style="info" %}
-Course content should be completed before May 2021.  
-**Update**: delayed due to accord.app development.
-{% endhint %}
+{% embed url="https://bit.ly/raspberry-pi-hosting" %}
 
 ### Learn the Basics of Bash
 
